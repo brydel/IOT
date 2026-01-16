@@ -1,0 +1,7 @@
+FACE DATASET
+
+- Type: Face recognition images
+- Approximate size: ~1.6 GB
+- Format: JPG / PNG
+- Organization: one folder per person
+- Purpose: data cleaning and preprocessing
