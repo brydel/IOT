@@ -1,7 +1,10 @@
-FACE DATASET
+DATASET DOWNLOAD LINK (WeTransfer):
+https://wetransfer.com/downloads/ada90a24381cbed2c323c7b60da5016f20260116165954/fb787403ab69c1dcf4471223a158834020260116174150/a64505?trk=TRN_TDL_01&utm_campaign=TRN_TDL_01&utm_medium=email&utm_source=sendgrid
 
-- Type: Face recognition images
-- Approximate size: ~1.6 GB
-- Format: JPG / PNG
-- Organization: one folder per person
-- Purpose: data cleaning and preprocessing
+Notes:
+- The raw dataset is NOT stored in this GitHub repository due to GitHub size limits.
+- Download the ZIP from the link above, then extract it locally.
+
+Expected folders after extraction:
+- archiveProjetIa/
+- archiveProjetIa1/
